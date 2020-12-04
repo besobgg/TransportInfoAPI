@@ -1,0 +1,630 @@
+{
+	"info": {
+		"_postman_id": "46f859cd-3a0c-446b-af26-3da62abdbc95",
+		"name": "TransportInfo API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get Transports",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept-Language",
+						"type": "text",
+						"value": "ka-GE"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:5000/api/transports?pageSize=3&orderBy=ManufactureDate  desc",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"transports"
+					],
+					"query": [
+						{
+							"key": "pageNumber",
+							"value": "1",
+							"disabled": true
+						},
+						{
+							"key": "pageSize",
+							"value": "3"
+						},
+						{
+							"key": "RegistrationNumber",
+							"value": "AA-200",
+							"disabled": true
+						},
+						{
+							"key": "VinCode",
+							"value": "",
+							"disabled": true
+						},
+						{
+							"key": "MaxYearOfManufacture",
+							"value": "",
+							"disabled": true
+						},
+						{
+							"key": "orderBy",
+							"value": "ManufactureDate  desc"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get TransportHolderPersons",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept-Language",
+						"type": "text",
+						"value": "ka-GE"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:5000/api/transports/08277147-51bb-4b17-bebe-05ad4942435c/persons",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"transports",
+						"08277147-51bb-4b17-bebe-05ad4942435c",
+						"persons"
+					],
+					"query": [
+						{
+							"key": "pageNumber",
+							"value": "1",
+							"disabled": true
+						},
+						{
+							"key": "pageSize",
+							"value": "3",
+							"disabled": true
+						},
+						{
+							"key": "RegistrationNumber",
+							"value": "AA-200",
+							"disabled": true
+						},
+						{
+							"key": "VinCode",
+							"value": "",
+							"disabled": true
+						},
+						{
+							"key": "MaxYearOfManufacture",
+							"value": "",
+							"disabled": true
+						},
+						{
+							"key": "",
+							"value": "",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get TransportById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/transports/08277147-51bb-4b17-bebe-05ad4942435c/persons",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"transports",
+						"08277147-51bb-4b17-bebe-05ad4942435c",
+						"persons"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST TransportWithImage",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/D:/Desktop New/photo.jpg"
+						},
+						{
+							"key": "transport",
+							"value": "{\n    \n    \"vinCode\": \"34353453THFDHJ87Y6\",\n    \"registrationNumber\": \"AA-200-AA\",\n    \"manufactureDate\": \"1990-04-09T00:00:00\",\n    \"photo\": null,\n    \"manufacturerId\": 11,    \n    \"modelId\": 11,    \n    \"colorId\": 12,    \n    \"fuelId\": 11,\n}",
+							"type": "text"
+						}
+					],
+					"options": {
+						"formdata": {}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/Transports",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"Transports"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST TransportHolderPerson",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"person\": {\r\n             \r\n             \r\n            \"firstName\": \"სალომე\",\r\n            \"lastName\": \"გოგისვანიძე\",\r\n            \"personalNumber\": \"60001137083\",\r\n            \"phone\": \"577977329\"\r\n        },\r\n        \"holderStatus\": true\r\n    }",
+					"options": {
+						"formdata": {},
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/transports/08277147-51bb-4b17-bebe-05ad4942435c/persons",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"transports",
+						"08277147-51bb-4b17-bebe-05ad4942435c",
+						"persons"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PUT TransportWithImage",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/D:/Desktop New/photo.jpg",
+							"disabled": true
+						},
+						{
+							"key": "transport",
+							"value": "{\n    \n    \"vinCode\": \"34353453THFDHJ87Y6\",\n    \"registrationNumber\": \"CB-200-AA\",\n    \"manufactureDate\": \"1990-04-09T00:00:00\",\n    \"photo\": null,\n    \"manufacturerId\": 11,    \n    \"modelId\": 11,    \n    \"colorId\": 12,    \n    \"fuelId\": 11,\n}",
+							"type": "text"
+						}
+					],
+					"options": {
+						"formdata": {}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/transports/08277147-51bb-4b17-bebe-05ad4942435c",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"transports",
+						"08277147-51bb-4b17-bebe-05ad4942435c"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PUT Transport",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\r\n    {\r\n    \r\n    \"vinCode\": \"34353453THFDHJ87b7\",\r\n    \"registrationNumber\": \"cA-200-cA\",\r\n    \"manufactureDate\": \"1990-04-09T00:00:00\",\r\n    \"photo\": \"wwwroot\\\\uploads\\\\8bbc0970-61c2-41ba-a92f-28ba62f11ec4photo.jpg\",\r\n    \"manufacturerId\": 11,\r\n    \"modelId\": 11,\r\n    \"colorId\": 12,\r\n    \"fuelId\": 11 \r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/transports/08277147-51bb-4b17-bebe-05ad4942435c",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"transports",
+						"08277147-51bb-4b17-bebe-05ad4942435c"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Transport",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/transports/08277147-51bb-4b17-bebe-05ad4942435c",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"transports",
+						"08277147-51bb-4b17-bebe-05ad4942435c"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete TransportHolderPersonById",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/transports/08277147-51bb-4b17-bebe-05ad4942435c/persons/9bad0423-2cf9-4a04-8604-b3d14e0f37eb",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"transports",
+						"08277147-51bb-4b17-bebe-05ad4942435c",
+						"persons",
+						"9bad0423-2cf9-4a04-8604-b3d14e0f37eb"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST TransportImage",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/D:/Desktop New/photo.jpg"
+						}
+					],
+					"options": {
+						"formdata": {}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/transports/08277147-51bb-4b17-bebe-05ad4942445c/image",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"transports",
+						"08277147-51bb-4b17-bebe-05ad4942445c",
+						"image"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PUT TransportImage",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/D:/Desktop New/beso.png"
+						}
+					],
+					"options": {
+						"formdata": {}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/transports/08277147-51bb-4b17-bebe-05ad4942435c/image",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"transports",
+						"08277147-51bb-4b17-bebe-05ad4942435c",
+						"image"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE TransportImage",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/transports/08277147-51bb-4b17-bebe-05ad4942435c/image",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"transports",
+						"08277147-51bb-4b17-bebe-05ad4942435c",
+						"image"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET Persons",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept-Language",
+						"type": "text",
+						"value": "ka-GE"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:5000/api/persons",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"persons"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET PersonById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/persons/08277147-51bb-4b17-bebe-05ad4942436c",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"persons",
+						"08277147-51bb-4b17-bebe-05ad4942436c"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST Person",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \r\n        \r\n        \"firstName\": \"ბესო\",\r\n        \"lastName\": \"გოგისვანიძე\",\r\n        \"personalNumber\": \"60001137083\",\r\n        \"phone\": \"577977329\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/persons",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"persons"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE  Person",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/persons/08277147-51bb-4b17-bebe-05ad4942436c",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"persons",
+						"08277147-51bb-4b17-bebe-05ad4942436c"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET Fuels",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept-Language",
+						"type": "text",
+						"value": "ka-GE"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/fuels",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"fuels"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE  Fuel",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/fuels/11",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"fuels",
+						"11"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST Fuel",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": " {\r\n        \"fuelTypeGE\": \"დიზელი\",\r\n        \"fuelType\": \"Diesel\"\r\n }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/fuels",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"fuels"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

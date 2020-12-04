@@ -1,0 +1,45 @@
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Domain.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.csprojAssemblyReference.cache
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.AssemblyInfoInputs.cache
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.AssemblyInfo.cs
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Data.deps.json
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Data.runtimeconfig.json
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Data.runtimeconfig.dev.json
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Data.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Data.pdb
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Domain.pdb
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.csproj.CoreCompileInputs.cache
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.csproj.CopyComplete
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.pdb
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.genruntimeconfig.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Data.deps.json
+D:\asp.net core programs\TransportInfo\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Data.runtimeconfig.json
+D:\asp.net core programs\TransportInfo\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Data.runtimeconfig.dev.json
+D:\asp.net core programs\TransportInfo\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Data.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Data.pdb
+D:\asp.net core programs\TransportInfo\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Domain.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Domain.pdb
+D:\asp.net core programs\TransportInfo\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.csprojAssemblyReference.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.AssemblyInfoInputs.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.AssemblyInfo.cs
+D:\asp.net core programs\TransportInfo\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.csproj.CoreCompileInputs.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.csproj.CopyComplete
+D:\asp.net core programs\TransportInfo\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.pdb
+D:\asp.net core programs\TransportInfo\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.genruntimeconfig.cache
+D:\Desktop New\TransportInfo\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Data.deps.json
+D:\Desktop New\TransportInfo\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Data.runtimeconfig.json
+D:\Desktop New\TransportInfo\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Data.runtimeconfig.dev.json
+D:\Desktop New\TransportInfo\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Data.dll
+D:\Desktop New\TransportInfo\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Data.pdb
+D:\Desktop New\TransportInfo\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Domain.dll
+D:\Desktop New\TransportInfo\TransportInfo.Data\bin\Debug\netcoreapp3.1\TransportInfo.Domain.pdb
+D:\Desktop New\TransportInfo\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.csprojAssemblyReference.cache
+D:\Desktop New\TransportInfo\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.AssemblyInfoInputs.cache
+D:\Desktop New\TransportInfo\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.AssemblyInfo.cs
+D:\Desktop New\TransportInfo\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.csproj.CoreCompileInputs.cache
+D:\Desktop New\TransportInfo\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.csproj.CopyComplete
+D:\Desktop New\TransportInfo\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.dll
+D:\Desktop New\TransportInfo\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.pdb
+D:\Desktop New\TransportInfo\TransportInfo.Data\obj\Debug\netcoreapp3.1\TransportInfo.Data.genruntimeconfig.cache

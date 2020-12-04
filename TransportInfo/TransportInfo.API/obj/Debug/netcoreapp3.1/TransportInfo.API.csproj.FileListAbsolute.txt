@@ -1,0 +1,288 @@
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.Data.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.Domain.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.LoggerService.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.csprojAssemblyReference.cache
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.AssemblyInfoInputs.cache
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.AssemblyInfo.cs
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.RazorTargetAssemblyInfo.cache
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.csproj.CoreCompileInputs.cache
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.exe
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.deps.json
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.runtimeconfig.json
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.runtimeconfig.dev.json
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.pdb
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.Data.pdb
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.LoggerService.pdb
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.Domain.pdb
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.csproj.CopyComplete
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\obj\Debug\netcoreapp3.1\staticwebassets\TransportInfo.API.StaticWebAssets.Manifest.cache
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\obj\Debug\netcoreapp3.1\staticwebassets\TransportInfo.API.StaticWebAssets.xml
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.pdb
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.genruntimeconfig.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\nlog.config
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.exe
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.deps.json
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.runtimeconfig.json
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.runtimeconfig.dev.json
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.pdb
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.xml
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\en-US\TransportInfo.API.resources.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\ka-GE\TransportInfo.API.resources.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.OLE.Interop.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Shell.Interop.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\NLog.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.Data.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.Domain.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.LoggerService.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.Data.pdb
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.LoggerService.pdb
+D:\asp.net core programs\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.Domain.pdb
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.csprojAssemblyReference.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.Resources.Controllers.TransportsController.en-US.resources
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.Resources.Controllers.TransportsController.ka-GE.resources
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.csproj.GenerateResource.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.AssemblyInfoInputs.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.AssemblyInfo.cs
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.csproj.CoreCompileInputs.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.MvcApplicationPartsAssemblyInfo.cs
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.MvcApplicationPartsAssemblyInfo.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\en-US\TransportInfo.API.resources.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\ka-GE\TransportInfo.API.resources.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.RazorTargetAssemblyInfo.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.csproj.CopyComplete
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\staticwebassets\TransportInfo.API.StaticWebAssets.Manifest.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\staticwebassets\TransportInfo.API.StaticWebAssets.xml
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.pdb
+D:\asp.net core programs\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.genruntimeconfig.cache
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\nlog.config
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.exe
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.deps.json
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.runtimeconfig.json
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.runtimeconfig.dev.json
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.pdb
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.API.xml
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\en-US\TransportInfo.API.resources.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\ka-GE\TransportInfo.API.resources.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\NLog.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.Data.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.Domain.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.LoggerService.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.Data.pdb
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.LoggerService.pdb
+D:\Desktop New\TransportInfo\TransportInfo.API\bin\Debug\netcoreapp3.1\TransportInfo.Domain.pdb
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.csprojAssemblyReference.cache
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.Resources.Controllers.TransportsController.en-US.resources
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.Resources.Controllers.TransportsController.ka-GE.resources
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.csproj.GenerateResource.cache
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.AssemblyInfoInputs.cache
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.AssemblyInfo.cs
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.csproj.CoreCompileInputs.cache
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\en-US\TransportInfo.API.resources.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\ka-GE\TransportInfo.API.resources.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.RazorTargetAssemblyInfo.cache
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.csproj.CopyComplete
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\staticwebassets\TransportInfo.API.StaticWebAssets.Manifest.cache
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\staticwebassets\TransportInfo.API.StaticWebAssets.xml
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.dll
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.pdb
+D:\Desktop New\TransportInfo\TransportInfo.API\obj\Debug\netcoreapp3.1\TransportInfo.API.genruntimeconfig.cache

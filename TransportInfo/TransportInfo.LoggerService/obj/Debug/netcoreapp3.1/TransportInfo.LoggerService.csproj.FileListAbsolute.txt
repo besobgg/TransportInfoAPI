@@ -1,0 +1,36 @@
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.LoggerService\bin\Debug\netcoreapp3.1\TransportInfo.Domain.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.csprojAssemblyReference.cache
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.AssemblyInfoInputs.cache
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.AssemblyInfo.cs
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.LoggerService\bin\Debug\netcoreapp3.1\TransportInfo.LoggerService.deps.json
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.LoggerService\bin\Debug\netcoreapp3.1\TransportInfo.LoggerService.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.LoggerService\bin\Debug\netcoreapp3.1\TransportInfo.LoggerService.pdb
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.LoggerService\bin\Debug\netcoreapp3.1\TransportInfo.Domain.pdb
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.csproj.CopyComplete
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.pdb
+D:\asp.net core programs\TransportInfo\TransportInfo.LoggerService\bin\Debug\netcoreapp3.1\TransportInfo.LoggerService.deps.json
+D:\asp.net core programs\TransportInfo\TransportInfo.LoggerService\bin\Debug\netcoreapp3.1\TransportInfo.LoggerService.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.LoggerService\bin\Debug\netcoreapp3.1\TransportInfo.LoggerService.pdb
+D:\asp.net core programs\TransportInfo\TransportInfo.LoggerService\bin\Debug\netcoreapp3.1\TransportInfo.Domain.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.LoggerService\bin\Debug\netcoreapp3.1\TransportInfo.Domain.pdb
+D:\asp.net core programs\TransportInfo\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.csprojAssemblyReference.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.AssemblyInfoInputs.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.AssemblyInfo.cs
+D:\asp.net core programs\TransportInfo\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.csproj.CoreCompileInputs.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.csproj.CopyComplete
+D:\asp.net core programs\TransportInfo\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.pdb
+D:\Desktop New\TransportInfo\TransportInfo.LoggerService\bin\Debug\netcoreapp3.1\TransportInfo.LoggerService.deps.json
+D:\Desktop New\TransportInfo\TransportInfo.LoggerService\bin\Debug\netcoreapp3.1\TransportInfo.LoggerService.dll
+D:\Desktop New\TransportInfo\TransportInfo.LoggerService\bin\Debug\netcoreapp3.1\TransportInfo.LoggerService.pdb
+D:\Desktop New\TransportInfo\TransportInfo.LoggerService\bin\Debug\netcoreapp3.1\TransportInfo.Domain.dll
+D:\Desktop New\TransportInfo\TransportInfo.LoggerService\bin\Debug\netcoreapp3.1\TransportInfo.Domain.pdb
+D:\Desktop New\TransportInfo\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.csprojAssemblyReference.cache
+D:\Desktop New\TransportInfo\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.AssemblyInfoInputs.cache
+D:\Desktop New\TransportInfo\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.AssemblyInfo.cs
+D:\Desktop New\TransportInfo\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.csproj.CoreCompileInputs.cache
+D:\Desktop New\TransportInfo\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.csproj.CopyComplete
+D:\Desktop New\TransportInfo\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.dll
+D:\Desktop New\TransportInfo\TransportInfo.LoggerService\obj\Debug\netcoreapp3.1\TransportInfo.LoggerService.pdb

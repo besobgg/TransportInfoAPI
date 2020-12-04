@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "15leQwhVXLLeBiB6dwDhaWMY6kjjcUCrh5gojjbfRPZlsxPx0GNQGvtKsD7tldRdM3QjBbCoZE+J4MFSC6nTWA==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop New\\TransportInfoAPI\\TransportInfo\\TransportInfo.Domain\\TransportInfo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BE SO\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.0\\microsoft.aspnetcore.http.features.5.0.0.nupkg.sha512",
+    "C:\\Users\\BE SO\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\BE SO\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\BE SO\\.nuget\\packages\\system.io.pipelines\\5.0.0\\system.io.pipelines.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

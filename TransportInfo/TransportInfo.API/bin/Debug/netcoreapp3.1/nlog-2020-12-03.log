@@ -1,0 +1,64 @@
+2020-12-03 00:22:05.6448|INFO|TransportInfo.LoggerService.LoggerManager|Returned 0 transports from database.
+2020-12-03 00:22:12.1049|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:22:29.3793|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:23:06.3784|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:23:40.3388|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:24:00.9303|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:24:06.8830|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:24:34.1234|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:26:30.6363|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:26:48.4085|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:27:12.1896|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:27:53.3298|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:28:08.5913|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:30:23.6777|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:30:35.0805|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:31:49.1137|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:32:00.1330|INFO|TransportInfo.LoggerService.LoggerManager|Returned 0 transports from database.
+2020-12-03 00:32:05.9727|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:32:15.5126|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:35:53.6747|INFO|TransportInfo.LoggerService.LoggerManager|Returned 3 transports from database.
+2020-12-03 00:44:37.9821|ERROR|TransportInfo.LoggerService.LoggerManager|Invalid transport object sent from client.
+2020-12-03 15:29:07.2886|ERROR|TransportInfo.LoggerService.LoggerManager|Something went wrong: System.InvalidOperationException: The instance of entity type 'TransportPerson' cannot be tracked because another instance with the same key value for {'TransportId', 'PersonId'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.NullableKeyIdentityMap`1.Add(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.PaintAction(EntityEntryGraphNode`1 node)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityEntryGraphIterator.TraverseGraph[TState](EntityEntryGraphNode`1 node, Func`2 handleNode)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityGraphAttacher.AttachGraph(InternalEntityEntry rootEntry, EntityState targetState, EntityState storeGeneratedWithKeySetTargetState, Boolean forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.SetEntityState(InternalEntityEntry entry, EntityState entityState)
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.Update(TEntity entity)
+   at TransportInfo.Data.Repositories.RepositoryBase`1.Update(T entity) in D:\asp.net core programs\TransportInfo\TransportInfo.Data\Repositories\RepositoryBase.cs:line 46
+   at TransportInfo.API.Controllers.TransportsController.CreateTransportHolderPerson(Guid transportId, TransportPersonForCreationDto transportPerson)
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at TransportInfo.API.ExcepMiddleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext)
+2020-12-03 16:00:26.6016|ERROR|TransportInfo.LoggerService.LoggerManager|TransportPerson have been found in db.
+2020-12-03 16:02:33.1127|ERROR|TransportInfo.LoggerService.LoggerManager|TransportPerson have been found in db.
+2020-12-03 16:03:18.5841|ERROR|TransportInfo.LoggerService.LoggerManager|TransportPerson have been found in db.
+2020-12-03 17:27:46.5851|ERROR|TransportInfo.LoggerService.LoggerManager|TransportPerson have been found in db.
+2020-12-03 17:29:03.2519|ERROR|TransportInfo.LoggerService.LoggerManager|TransportPerson have been found in db.
+2020-12-03 17:29:16.3877|ERROR|TransportInfo.LoggerService.LoggerManager|TransportPerson have been found in db.
+2020-12-03 19:15:51.6779|INFO|TransportInfo.LoggerService.LoggerManager|Returned 2 transports from database.

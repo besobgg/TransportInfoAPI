@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TransportInfo.API</name>
+    </assembly>
+    <members>
+        <member name="M:TransportInfo.API.Controllers.TransportsController.GetTranspors(TransportInfo.Domain.Services.TransportParameters)">
+            <summary>
+            Gets The List Of All Transports With Paging and Ordering Functions
+            </summary>
+            <param name="transportParameters"></param>
+            <returns>The List Of Transports</returns>
+        </member>
+        <member name="M:TransportInfo.API.Controllers.TransportsController.GetTransportById(System.Guid,System.Boolean)">
+            <summary>
+            Gets The  Transport With Details Or Not Depends includeDetails Parameter
+            </summary>
+            <param name="Id"></param>
+            <param name="includeDetails"></param>
+            <returns>Transport </returns>
+        </member>
+        <member name="M:TransportInfo.API.Controllers.TransportsController.CreateTransport(TransportInfo.Domain.Services.TransportFileUpload)">
+            <summary>
+            Creates Transport With Image, ObjectFile Should Conteins Image and String Of Transport Object With Curly Brackets
+            </summary>
+            <remarks>
+            Sample request:
+            
+                POST api/transports
+                {  
+                
+                 "vinCode": "34353453THFDHJ87Y6", 
+                 "registrationNumber": "AA-200-AA",
+                 "manufactureDate": "1990-04-09T00:00:00",
+                 "photo": null,
+                 "manufacturerId": 11,
+                 "modelId": 11, 
+                 "colorId": 12,
+                 "fuelId": 11,       
+                }
+            </remarks>
+            <param name="objectFile"></param>
+            <returns></returns> 
+        </member>
+        <member name="M:TransportInfo.API.Controllers.TransportsController.UpdateTransportWithPhoto(System.Guid,TransportInfo.Domain.Services.TransportFileUpload,System.Boolean)">
+            <summary>
+            Updates Transport With Image, ObjectFile Should Conteins Image and String Of Transport Object  With Curly Brackets
+            </summary>
+            <remarks>
+            Sample request:
+            
+                PUT api/transports
+                {  
+                
+                 "vinCode": "34353453THFDHJ87Y6", 
+                 "registrationNumber": "AA-200-AA",
+                 "manufactureDate": "1990-04-09T00:00:00",
+                 "photo": null,
+                 "manufacturerId": 11,
+                 "modelId": 11, 
+                 "colorId": 12,
+                 "fuelId": 11,       
+                }
+            </remarks>
+            <param name="Id"></param>
+            <param name="objectFile"></param>
+            <param name="includeDetails"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TransportInfo.API.Controllers.TransportsController.DeleteTransportHolderPerson(System.Guid,System.Guid)">
+            <summary>
+            The Delete Method Make Transport Holder As an Old Holder
+            </summary>
+            <param name="transportId"></param>
+            <param name="personId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

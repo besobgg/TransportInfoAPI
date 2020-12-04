@@ -1,0 +1,26 @@
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Domain\bin\Debug\netcoreapp3.1\TransportInfo.Domain.deps.json
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Domain\bin\Debug\netcoreapp3.1\TransportInfo.Domain.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.AssemblyInfoInputs.cache
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.AssemblyInfo.cs
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Domain\bin\Debug\netcoreapp3.1\TransportInfo.Domain.pdb
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.dll
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.pdb
+C:\Users\BE SO\source\repos\TransportInfo1\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.csprojAssemblyReference.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.Domain\bin\Debug\netcoreapp3.1\TransportInfo.Domain.deps.json
+D:\asp.net core programs\TransportInfo\TransportInfo.Domain\bin\Debug\netcoreapp3.1\TransportInfo.Domain.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.Domain\bin\Debug\netcoreapp3.1\TransportInfo.Domain.pdb
+D:\asp.net core programs\TransportInfo\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.csprojAssemblyReference.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.AssemblyInfoInputs.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.AssemblyInfo.cs
+D:\asp.net core programs\TransportInfo\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.csproj.CoreCompileInputs.cache
+D:\asp.net core programs\TransportInfo\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.dll
+D:\asp.net core programs\TransportInfo\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.pdb
+D:\Desktop New\TransportInfo\TransportInfo.Domain\bin\Debug\netcoreapp3.1\TransportInfo.Domain.deps.json
+D:\Desktop New\TransportInfo\TransportInfo.Domain\bin\Debug\netcoreapp3.1\TransportInfo.Domain.dll
+D:\Desktop New\TransportInfo\TransportInfo.Domain\bin\Debug\netcoreapp3.1\TransportInfo.Domain.pdb
+D:\Desktop New\TransportInfo\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.AssemblyInfoInputs.cache
+D:\Desktop New\TransportInfo\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.AssemblyInfo.cs
+D:\Desktop New\TransportInfo\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.csproj.CoreCompileInputs.cache
+D:\Desktop New\TransportInfo\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.dll
+D:\Desktop New\TransportInfo\TransportInfo.Domain\obj\Debug\netcoreapp3.1\TransportInfo.Domain.pdb
